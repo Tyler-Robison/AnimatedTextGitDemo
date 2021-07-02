@@ -4,5 +4,9 @@ body {
 }
 
 h1 {
-    font-size: large;
+    font-size: medium;
+}
+
+span {
+    color: brown;
 }
