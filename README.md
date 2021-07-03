@@ -1,0 +1,3 @@
+# AnimatedTextGitDemo
+
+My first readme!
